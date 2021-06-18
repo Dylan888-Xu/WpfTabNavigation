@@ -1,0 +1,15 @@
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\bin\Debug\WpfTabNavigation.exe.config
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\bin\Debug\WpfTabNavigation.exe
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\bin\Debug\WpfTabNavigation.pdb
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.csprojAssemblyReference.cache
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\MainWindow.g.cs
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\App.g.cs
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation_MarkupCompile.cache
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation_MarkupCompile.lref
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\MainWindow.baml
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.g.resources
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.Properties.Resources.resources
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.csproj.GenerateResource.cache
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.csproj.CoreCompileInputs.cache
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.exe
+D:\XhxWork\TestProgram\测试\WpfTabNavigation\obj\Debug\WpfTabNavigation.pdb
